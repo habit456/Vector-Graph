@@ -1,0 +1,30 @@
+#canvas {
+  border: 1px solid black;
+}
+
+#showCoords {
+  font-size: 22px;
+  font-family: helvetica;
+  text-align: center;
+}
+
+#stats-div {
+  width: 500px;
+  background-color: hsl(220, 100%, 95%);
+  border: 2px solid black;
+  margin-top: 1em;
+}
+
+#stats-title {
+  text-align: center;
+  border-bottom: 2px solid black;
+  margin-top: 1em;
+  padding-bottom: 1em;
+}
+
+#stats-list {
+  list-style: none;
+  font-size: 22px;
+  font-family: helvetica;
+  padding-left: 10px;
+}
